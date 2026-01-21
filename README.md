@@ -1,10 +1,9 @@
-# Hello, world!
+## Hello! ^_^
 
-👋 I'm a recent Bachelor's graduate in Computer Science. I have 3 years professional experience working with startups and scaleups in Amsterdam and Jakarta.
 
-👀 I primarily develop Frontend, using React with Next.js, or Vue.js with Nuxt.js. I work with Tailwind, and my earlier work uses vanilla CSS with SASS. 
+CS BSc grad from Amsterdam. Currently in an internship with Algobash in Jakarta.
 
-🌱 I'm currently developing backend projects, creating RESTful APIs and learning Data Modeling.
+I develop apps, between React and Vue. I like using Go and Postgres when developing servers.
 
 <!--
 **Guivari/Guivari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
